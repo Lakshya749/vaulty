@@ -11,7 +11,7 @@
 ## 🔗 Official Project Links & Deliverables
 
 - **Live Cloud Web Application:** [http://localhost:3000](http://localhost:3000)
-- **GitHub Source Code Repository:** [https://github.com/lakshyasingh/vaulty](https://github.com/lakshyasingh/vaulty)
+- **GitHub Source Code Repository:** [https://github.com/Lakshya749/vaulty](https://github.com/Lakshya749/vaulty)
 - **33-Page Official Report (PDF with Clickable Links):** [`VAULTY_Minor_Project_Report.pdf`](VAULTY_Minor_Project_Report.pdf)
 - **Official Word Document (.docx):** [`college_files/VAULTY_MINOR_PROJECT_REPORT_COMPLETE.docx`](college_files/VAULTY_MINOR_PROJECT_REPORT_COMPLETE.docx)
 - **Student Email:** [lakshyasingh.bcr24224@imsnoida.com](mailto:lakshyasingh.bcr24224@imsnoida.com)

@@ -257,7 +257,7 @@ def build_cover_page():
       </w:tc>
     </w:tr>
     </w:tbl>"""
-    c += make_p_with_link("Project Repository: ", "https://github.com/lakshyasingh/vaulty", "https://github.com/lakshyasingh/vaulty", align="center", bold_prefix=True, size=20, space_after=40)
+    c += make_p_with_link("Project Repository: ", "https://github.com/Lakshya749/vaulty", "https://github.com/Lakshya749/vaulty", align="center", bold_prefix=True, size=20, space_after=40)
     c += make_p_with_link("Live Application: ", "https://confidential-municipality-venice-activated.trycloudflare.com", "https://confidential-municipality-venice-activated.trycloudflare.com", align="center", bold_prefix=True, size=20, space_after=80)
     return c
 
@@ -275,7 +275,7 @@ def build_proforma():
     c += make_p_with_link('E-mail: ', 'lakshyasingh.bcr24224@imsnoida.com', 'mailto:lakshyasingh.bcr24224@imsnoida.com', bold_prefix=True, size=24, space_after=100)
     c += make_p_with_link('Mob. No: ', '+91 9891112062', 'tel:+919891112062', bold_prefix=True, size=24, space_after=100)
     c += make_p('Title of the MINOR Project: VAULTY: SUBSCRIPTION AND RENEWAL MANAGEMENT SYSTEM', bold=True, size=24, space_after=100)
-    c += make_p_with_link('GitHub Source Code: ', 'https://github.com/lakshyasingh/vaulty', 'https://github.com/lakshyasingh/vaulty', bold_prefix=True, size=24, space_after=100)
+    c += make_p_with_link('GitHub Source Code: ', 'https://github.com/Lakshya749/vaulty', 'https://github.com/Lakshya749/vaulty', bold_prefix=True, size=24, space_after=100)
     c += make_p_with_link('Live Web Application: ', 'https://confidential-municipality-venice-activated.trycloudflare.com', 'https://confidential-municipality-venice-activated.trycloudflare.com', bold_prefix=True, size=24, space_after=100)
     c += make_p('Name of the Guide: Prof. Nihal Kumar', bold=True, size=24, space_after=160)
     

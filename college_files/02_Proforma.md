@@ -8,7 +8,7 @@
 **Mob. No:** [+91 9891112062](tel:+919891112062)  
 
 **Title of the MINOR Project:** VAULTY: SUBSCRIPTION AND RENEWAL MANAGEMENT SYSTEM  
-**GitHub Source Code:** [https://github.com/lakshyasingh/vaulty](https://github.com/lakshyasingh/vaulty)  
+**GitHub Source Code:** [https://github.com/Lakshya749/vaulty](https://github.com/Lakshya749/vaulty)  
 **Live Web Application:** [http://localhost:3000](http://localhost:3000)  
 **Name of the Guide:** Prof. Nihal Kumar  
 

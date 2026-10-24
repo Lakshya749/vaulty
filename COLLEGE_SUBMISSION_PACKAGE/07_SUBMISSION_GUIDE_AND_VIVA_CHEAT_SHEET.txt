@@ -13,7 +13,7 @@ Institute of Management Studies (IMS), Noida • CCS University, Meerut
 • Official Email     : lakshyasingh.bcr24224@imsnoida.com
 • Student Mobile     : +91 9891112062
 • Project Title      : VAULTY: SUBSCRIPTION AND RENEWAL MANAGEMENT WEB APPLICATION
-• GitHub Repository  : https://github.com/lakshyasingh/vaulty
+• GitHub Repository  : https://github.com/Lakshya749/vaulty
 
 ================================================================================
 2. MANDATORY COLLEGE REQUIREMENTS CHECKLIST (FOR TOMORROW)

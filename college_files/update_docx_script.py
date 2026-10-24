@@ -84,7 +84,7 @@ new_cover_sig = """        <w:p><w:pPr><w:jc w:val="right"/><w:spacing w:line="3
       </w:tc>
     </w:tr>
     </w:tbl>\"\"\"
-    c += make_p_with_link("Project Repository: ", "https://github.com/lakshyasingh/vaulty", "https://github.com/lakshyasingh/vaulty", align="center", bold_prefix=True, size=20, space_after=40)
+    c += make_p_with_link("Project Repository: ", "https://github.com/Lakshya749/vaulty", "https://github.com/Lakshya749/vaulty", align="center", bold_prefix=True, size=20, space_after=40)
     c += make_p_with_link("Live Application: ", "https://vaulty-lac.vercel.app", "https://vaulty-lac.vercel.app", align="center", bold_prefix=True, size=20, space_after=80)
     return c"""
 text = text.replace(old_cover_sig, new_cover_sig)
@@ -102,7 +102,7 @@ new_proforma_fields = """    c += make_p('Roll no.: 240919106122', bold=True, si
     c += make_p_with_link('E-mail: ', 'lakshyasingh.bcr24224@imsnoida.com', 'mailto:lakshyasingh.bcr24224@imsnoida.com', bold_prefix=True, size=24, space_after=100)
     c += make_p_with_link('Mob. No: ', '+91 9891112062', 'tel:+919891112062', bold_prefix=True, size=24, space_after=100)
     c += make_p('Title of the MINOR Project: VAULTY: SUBSCRIPTION AND RENEWAL MANAGEMENT SYSTEM', bold=True, size=24, space_after=100)
-    c += make_p_with_link('GitHub Source Code: ', 'https://github.com/lakshyasingh/vaulty', 'https://github.com/lakshyasingh/vaulty', bold_prefix=True, size=24, space_after=100)
+    c += make_p_with_link('GitHub Source Code: ', 'https://github.com/Lakshya749/vaulty', 'https://github.com/Lakshya749/vaulty', bold_prefix=True, size=24, space_after=100)
     c += make_p_with_link('Live Web Application: ', 'https://vaulty-lac.vercel.app', 'https://vaulty-lac.vercel.app', bold_prefix=True, size=24, space_after=100)
     c += make_p('Name of the Guide: Prof. Nihal Kumar', bold=True, size=24, space_after=160)"""
 text = text.replace(old_proforma_fields, new_proforma_fields)

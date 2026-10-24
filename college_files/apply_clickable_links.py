@@ -55,7 +55,7 @@ if "Project Repository:" not in code:
 <!-- PAGE 2: PROFORMA -->"""
     cover_footer_new = """    </div>
     <div style="text-align:center; font-size:10pt; border-top:1px dashed #aaa; padding-top:8px; margin-top:20px;">
-      <b>Project Repository:</b> <a href="https://github.com/lakshyasingh/vaulty" target="_blank" class="ext-link">https://github.com/lakshyasingh/vaulty</a> &nbsp;|&nbsp;
+      <b>Project Repository:</b> <a href="https://github.com/Lakshya749/vaulty" target="_blank" class="ext-link">https://github.com/Lakshya749/vaulty</a> &nbsp;|&nbsp;
       <b>Live Application:</b> <a href="https://vaulty-lac.vercel.app" target="_blank" class="ext-link">https://vaulty-lac.vercel.app</a>
     </div>
   </div>
@@ -77,7 +77,7 @@ page2_new = """    <div class="form-row"><b>Roll no.:</b> 240919106122</div>
     <div class="form-row"><b>E-mail:</b> <a href="mailto:lakshyasingh.bcr24224@imsnoida.com" class="ext-link">lakshyasingh.bcr24224@imsnoida.com</a></div>
     <div class="form-row"><b>Mob. No:</b> <a href="tel:+919891112062" style="color:inherit; text-decoration:none;">+91 9891112062</a></div>
     <div class="form-row"><b>Title of the MINOR Project:</b> VAULTY: SUBSCRIPTION AND RENEWAL MANAGEMENT SYSTEM</div>
-    <div class="form-row"><b>GitHub Source Code:</b> <a href="https://github.com/lakshyasingh/vaulty" target="_blank" class="ext-link">https://github.com/lakshyasingh/vaulty</a></div>
+    <div class="form-row"><b>GitHub Source Code:</b> <a href="https://github.com/Lakshya749/vaulty" target="_blank" class="ext-link">https://github.com/Lakshya749/vaulty</a></div>
     <div class="form-row"><b>Live Web Application:</b> <a href="https://vaulty-lac.vercel.app" target="_blank" class="ext-link">https://vaulty-lac.vercel.app</a> (or <a href="http://localhost:3000" target="_blank" class="ext-link">http://localhost:3000</a>)</div>
     <div class="form-row"><b>Name of the Guide:</b> Prof. Nihal Kumar</div>"""
 code = code.replace(page2_old, page2_new)
@@ -173,7 +173,7 @@ for title, f_id in figures:
 ch5_callout = """    <div style="border:1.5px solid #2563eb; background:#f0f7ff; padding:10px 14px; border-radius:6px; margin:12px 0; font-size:11pt; line-height:1.5;">
       <b>Interactive Project Links:</b><br>
       &bull; <b>Live Web App Deployment:</b> <a href="https://vaulty-lac.vercel.app" target="_blank" class="ext-link">https://vaulty-lac.vercel.app</a><br>
-      &bull; <b>GitHub Source Code Repository:</b> <a href="https://github.com/lakshyasingh/vaulty" target="_blank" class="ext-link">https://github.com/lakshyasingh/vaulty</a>
+      &bull; <b>GitHub Source Code Repository:</b> <a href="https://github.com/Lakshya749/vaulty" target="_blank" class="ext-link">https://github.com/Lakshya749/vaulty</a>
     </div>"""
 
 if "Interactive Project Links:" not in code:

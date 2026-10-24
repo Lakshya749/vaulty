@@ -466,7 +466,7 @@ html_content = """<!DOCTYPE html>
     <b>Affiliated to:</b> Chaudhary Charan Singh University, Meerut
   </div>
   <div style="font-size: 11pt; color: #9CA3AF; line-height: 1.6;">
-    <b>GitHub Repository:</b> https://github.com/lakshyasingh/vaulty<br>
+    <b>GitHub Repository:</b> https://github.com/Lakshya749/vaulty<br>
     <b>Student Email:</b> lakshyasingh.bcr24224@imsnoida.com
   </div>
 </div>

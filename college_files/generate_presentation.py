@@ -480,7 +480,7 @@ p_cred.alignment = PP_ALIGN.CENTER
 p_cred.space_after = Pt(20)
 
 p_link = tf_thx.add_paragraph()
-p_link.text = "Live Deployment: https://confidential-municipality-venice-activated.trycloudflare.com\nGitHub: https://github.com/lakshyasingh/vaulty | Email: lakshyasingh.bcr24224@imsnoida.com"
+p_link.text = "Live Deployment: https://confidential-municipality-venice-activated.trycloudflare.com\nGitHub: https://github.com/Lakshya749/vaulty | Email: lakshyasingh.bcr24224@imsnoida.com"
 p_link.font.size = Pt(14)
 p_link.font.color.rgb = TEXT_MUTED
 p_link.alignment = PP_ALIGN.CENTER
