@@ -13,7 +13,7 @@ Institute of Management Studies (IMS), Noida • CCS University, Meerut
 • Official Email     : lakshyasingh.bcr24224@imsnoida.com
 • Student Mobile     : +91 9891112062
 • Project Title      : VAULTY: SUBSCRIPTION AND RENEWAL MANAGEMENT WEB APPLICATION
-• GitHub Repository  : https://github.com/Lakshya749/vaulty
+• GitHub Repository  : https://github.com/lakshyasingh/vaulty
 
 ================================================================================
 2. MANDATORY COLLEGE REQUIREMENTS CHECKLIST (FOR TOMORROW)
@@ -28,7 +28,7 @@ Institute of Management Studies (IMS), Noida • CCS University, Meerut
     - 04_PRESENTATION_SLIDES_PRINTABLE.pdf (Projector & print-ready slide deck)
 
 [✔] 3. LIVE APPLICATION INSTANCE:
-    - Live Cloud Edge Deployment : https://confidential-municipality-venice-activated.trycloudflare.com
+    - Live Cloud Edge Deployment : https://lakshya749.github.io/vaulty/
     - Local Development Instance : http://localhost:3000
     - Start locally anytime by double-clicking "start_live_app.command" inside this folder!
 

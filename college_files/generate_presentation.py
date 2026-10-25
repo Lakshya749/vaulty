@@ -445,7 +445,7 @@ add_card(s12, Inches(6.8), Inches(1.8), Inches(5.6), Inches(5.0),
              ("2. Master Word Document (.docx)", "college_files/VAULTY_MINOR_PROJECT_REPORT_COMPLETE.docx"),
              ("3. Source Code Bundle", "VAULTY_Source_Code.zip ready for USB / code submission."),
              ("4. Mandatory Presentation PPT", "VAULTY_Minor_Project_Presentation.pptx (This Deck)."),
-             ("5. Live Application", "Live Edge: https://confidential-municipality-venice-activated.trycloudflare.com"),
+             ("5. Live Application", "Live Edge: https://lakshya749.github.io/vaulty/"),
          ], badge_color=ACCENT_CYAN)
 
 # ----------------- SLIDE 13: THANK YOU & Q&A -----------------
@@ -480,7 +480,7 @@ p_cred.alignment = PP_ALIGN.CENTER
 p_cred.space_after = Pt(20)
 
 p_link = tf_thx.add_paragraph()
-p_link.text = "Live Deployment: https://confidential-municipality-venice-activated.trycloudflare.com\nGitHub: https://github.com/Lakshya749/vaulty | Email: lakshyasingh.bcr24224@imsnoida.com"
+p_link.text = "Live Deployment: https://lakshya749.github.io/vaulty/\nGitHub: https://github.com/Lakshya749/vaulty | Email: lakshyasingh.bcr24224@imsnoida.com"
 p_link.font.size = Pt(14)
 p_link.font.color.rgb = TEXT_MUTED
 p_link.alignment = PP_ALIGN.CENTER
